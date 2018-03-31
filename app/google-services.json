@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "754250906005",
+    "firebase_url": "https://tracing-335af.firebaseio.com",
+    "project_id": "tracing-335af",
+    "storage_bucket": "tracing-335af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754250906005:android:2f69026e31330dd0",
+        "android_client_info": {
+          "package_name": "com.example.nameless.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754250906005-0d019es22bvoiq5ebfa781s498mdon13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABgA0R2gRI9Ypx_HzRfm08RBHWffjwv7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
